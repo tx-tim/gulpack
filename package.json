@@ -1,0 +1,25 @@
+{
+  "name": "wangularpack",
+  "version": "1.0.0",
+  "description": "get webpack and angular to play nice with code splitting",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "the enchanter",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "lodash": "^4.3.0",
+    "ui-router": "^0.2.15"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7",
+    "node-sass": "^3.4.2",
+    "script-loader": "^0.6.1",
+    "webpack": "^1.12.13",
+    "webpack-dev-server": "^1.14.1",
+    "webpack-stream": "^3.1.0"
+  }
+}
