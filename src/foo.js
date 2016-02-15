@@ -8,6 +8,6 @@ console.log(angular)
 document.write("foo application")
 
 angular.module('basicapp', []).config(function() {
- console.log("x")
+ console.log("basicapp with webpack and codesplitting")
 })
 
