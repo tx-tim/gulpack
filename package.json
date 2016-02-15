@@ -1,7 +1,7 @@
 {
   "name": "wangularpack",
   "version": "1.0.0",
-  "description": "get webpack and angular to play nice with code splitting",
+  "description": "get webpack, gulp, and angular to play nice with code splitting",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
